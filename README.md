@@ -1,2 +1,2 @@
 # Webcomic-Site
-Designed to hold w non existent web-comic
+Designed to hold a (currently) nonexistent web-comic
